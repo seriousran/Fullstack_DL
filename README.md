@@ -1,2 +1,1 @@
-# Fullstack_DL
-Full Stack Deep Learning docs
+# Full Stack Deep Learning docs in Korean
